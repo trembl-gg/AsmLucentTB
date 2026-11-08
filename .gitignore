@@ -1,0 +1,9 @@
+build/*
+!build/.gitkeep
+
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.png
